@@ -23,5 +23,5 @@ for var in range(0,10):
 	print "->->"+ post["message"]
 #	message= [random.randint(0, len(replies))]
 #posts as a comment
-	graph.put_object(post["id"], "comments", message="Thankyou :D "+ fromName)
+	graph.put_object(post["id"], "comments", message="<insert your message> "+ fromName)
 	print message
