@@ -1,4 +1,4 @@
-'''add random functioanlity'''
+'''Just add random functioanlity'''
 '''maxy will be helping us in commenting on the posts
 code: Yogitha Polavarapu'''
 #import random
